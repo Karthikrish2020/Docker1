@@ -6,5 +6,3 @@ third change to new_branch_practice
 Fourth change to second_new_branch
 
 
-
-
